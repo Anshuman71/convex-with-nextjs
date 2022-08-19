@@ -1,0 +1,11 @@
+{
+  "authInfo": [
+    {
+      "domain": "https://anshu-superman.eu.auth0.com",
+      "applicationID": "NvdW8b1p4jPAZGECoNH3zsVQaiQvnxde"
+    }
+  ],
+  "functions": "convex/",
+  "instanceName": "wry-starling-720",
+  "origin": "https://wry-starling-720.convex.cloud"
+}
