@@ -15,7 +15,7 @@ function MyApp({ Component, pageProps }: AppProps) {
             authInfo={authInfo}
             loggedOut={<Login />}
         >
-            <Component {...pageProps} />;
+            <Component {...pageProps} />
         </ConvexProviderWithAuth0>
     )
 }
